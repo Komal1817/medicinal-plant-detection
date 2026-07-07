@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+*.h5
+users.db
+
+testing_images/
+static/uploads/
+medicinal_plants_dataset/
+.vscode/
